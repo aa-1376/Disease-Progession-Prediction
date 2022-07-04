@@ -1,0 +1,2 @@
+# Disease-Progession-Prediction
+In this project I will be predicting "Disease Progression" for different diabetic patients in the dataset. The work flow consists of Data Processing, Linear regression &amp; Multiple linear regression models, Polynomial Regression with scikit-learn Ridge and Lasso Regression Cross Validation. We use these different regression to see which best fits our model and is able to give the most accurate results. 
