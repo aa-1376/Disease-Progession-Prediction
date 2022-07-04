@@ -37,3 +37,7 @@ Note: Each of these 10 feature variables have been mean centered and scaled by t
 
 Source URL:
 https://www4.stat.ncsu.edu/~boos/var.select/diabetes.html
+
+
+Libraries Used:
+numpy , pandas , seaborn , matplotlib , plotly.express , statsmodels.api , sklearn
